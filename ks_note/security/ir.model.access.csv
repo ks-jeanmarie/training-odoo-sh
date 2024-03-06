@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_note_student,access.note.student,model_note_student,base.group_user,1,1,1,1
+access_note_subject,access.note.subject,model_note_subject,base.group_user,1,1,1,1
+access_note_class,access.note.class,model_note_class,base.group_user,1,1,1,1
+access_note_note,access.note.note,model_note_note,base.group_user,1,1,1,1
